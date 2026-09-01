@@ -50,6 +50,12 @@ Minecraft Bedrock Edition向けの「隠しアイテム」に特化した外部�
 
 ---
 
+# バージョン
+
+`Minecraft Bedrock Edition 26.20+, Minecraft Education 26.20+`が必須です。`Minecraft Bedrock Edition 26.50.*-preview/beta`まで対応しています。
+
+---
+
 # ダウンロード
 
 [こちら](https://github.com/shichitora/HiddenItemAddon/releases)から最新バージョンをダウンロード
